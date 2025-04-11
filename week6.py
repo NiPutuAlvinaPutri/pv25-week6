@@ -17,7 +17,7 @@ class SliderApp(QWidget):
         self.nameLabel.setStyleSheet("color: white; padding: 10px;")
 
         # Label NIM (akan dikontrol dengan slider)
-        self.nimLabel = QLabel("F1B008004", self)
+        self.nimLabel = QLabel("F1D022017", self)
         self.nimLabel.setAlignment(Qt.AlignCenter)
         self.nimLabel.setFont(QFont("Arial", 40))
         self.nimLabel.setStyleSheet("color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); padding: 20px;")
